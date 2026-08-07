@@ -32,5 +32,6 @@ Each line reports the average time taken by the assembly function over 30 runs.
 
 This makes the larger image sizes better for evaluating the assembly implementation.
 
-<img width="559" height="348" alt="image" src="https://github.com/user-attachments/assets/e3aaf952-702d-45d2-9ceb-ae4900de896b" />
+<img width="555" height="347" alt="image" src="https://github.com/user-attachments/assets/badd6821-e53c-4109-9639-12921156b3e8" />
+
 
