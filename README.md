@@ -20,15 +20,15 @@ This confirms that the assembly is producing the correct floating-point values f
 
 ### Timing output
 The test prints one line per image size:
-10x10
-100x100
-1000x1000
+- 10x10
+- 100x100
+- 1000x1000
 Each line reports the average time taken by the assembly function over 30 runs.
 
 ### Analysis of results
-the 10x10 case is extremely small, so the measured time is very close to the timing overhead itself
-the 100x100 case gives a more stable measurement because the workload is larger
-the 1000x1000 case is the most useful for performance analysis because it contains enough pixels to show the real cost of the conversion routine
+- the 10x10 case is extremely small, so the measured time is very close to the timing overhead itself
+- the 100x100 case gives a more stable measurement because the workload is larger
+- the 1000x1000 case is the most useful for performance analysis because it contains enough pixels to show the real cost of the conversion routine
 
 This makes the larger image sizes better for evaluating the assembly implementation.
 
