@@ -34,4 +34,8 @@ This makes the larger image sizes better for evaluating the assembly implementat
 
 <img width="555" height="347" alt="image" src="https://github.com/user-attachments/assets/badd6821-e53c-4109-9639-12921156b3e8" />
 
+## Demo video
+<iframe src="https://drive.google.com/file/d/1FzSyVQ0ln-uZw26zfmZ02Q-sTtS_l97S/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
+Google drive video link: **https://drive.google.com/file/d/1FzSyVQ0ln-uZw26zfmZ02Q-sTtS_l97S/view?usp=sharing**
+
 
